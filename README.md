@@ -5,7 +5,7 @@
 [![Live Interactive Prototype](https://img.shields.io/badge/Demo-Live_Vercel_App-000000?style=for-the-badge&logo=vercel)](https://console-connect-jumbo-orchestration.vercel.app)
 
 > **Platform Product Manager Case Study**  
-> *Author:* Senior Product Manager | Platform & Network Orchestration Capability Lead  
+> *Author:* Technical Product Manager | Product Owner — Network Automation, Console Connect  
 > *Domain:* Network-as-a-Service (NaaS), Multi-Cloud Interconnects, Layer-2 Infrastructure Optimization
 
 ---
@@ -20,6 +20,12 @@ However, enabling Jumbo Frames across hybrid multi-cloud topologies introduces s
 3. **Silent Degradation Risk:** Forcing Jumbo Frames over an incompatible cloud path or Internet On-Demand (IOD) link causes silent packet fragmentation, elevated latency, and critical support overhead.
 
 This project outlines the end-to-end product strategy, technical architecture, user experience guardrails, and dynamic monetization framework for an **Automated Network MTU Validation Engine**.
+
+---
+
+## 🤖 AI assisted Prototyping
+
+Built using AI-assisted rapid prototyping (Claude for architecture/PRD drafting, Lovable for UI, Vercel for deployment) to compress requirements-to-prototype cycle time and de-risk technical trade-offs before engineering investment.
 
 ---
 
