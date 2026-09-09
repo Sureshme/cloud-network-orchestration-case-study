@@ -2,7 +2,7 @@
 
 ![Platform PM Case Study](https://img.shields.io/badge/Product_Management-Platform_%26_Infrastructure-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
-[![Live Interactive Prototype](https://img.shields.io/badge/Demo-Live_Vercel_App-000000?style=for-the-badge&logo=vercel)](https://console-connect-jumbo-orchestration.vercel.app)
+[![Live Interactive Prototype](https://img.shields.io/badge/Demo-Live_Vercel_App-000000?style=for-the-badge&logo=vercel)](https://case-study-jumbo-orchestration.vercel.app/)
 
 > **Platform Product Manager Case Study**  
 > *Author:* Technical Product Manager | Product Owner — Network Automation, Console Connect  
